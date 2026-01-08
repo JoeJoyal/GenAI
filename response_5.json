@@ -1,0 +1,6 @@
+{
+  "model": "hr",
+  "query": "How can I apply the casual leave in greytHR?",
+  "response": "To apply the casual leave, follow these steps: 1. Log in to the greytHR portal using your credentials. 2. Navigate to the 'Leave' section. 3. Click on the 'Apply Leave' button. 4. Select 'Casual Leave' from the leave type dropdown menu. 5. Enter the date(s) you worked on a holiday or non-working day for which you are requesting casual leave. 6. Provide any additional details or reasons if required. 7. Review your application and click 'Submit'. Your casual leave request will be sent to your reporting manager for approval. If approved, the leave will be activated and reflected in your leave balance. If not approved, the leave will be kept active until it expires. Any additional days you request will be calculated and reflected in your leave balance. You can request casual leave up to 12",
+  "tokens_generated": 200
+}

@@ -1,0 +1,6 @@
+{
+  "model": "hr",
+  "query": "list out the types of leaves?",
+  "response": "The types of leaves available in our company are: 1. Casual Leave (CL) 2. Sick Leave (SL) 3. Privilege Leave (PL) 4. Maternity Leave 5. Paternity Leave 6. Bereavement Leave 7. Compensatory Off (Comp Off) 8. Loss of Pay (LOP) 9. Loss of Benefit (LOB) 10. Gratuity (GST) 11. Taxation Off (Tax Off) 12. Holiday Off (HO) 13. Service Certificate (SC) 14. Attendance Certificate (AC) 15. Loss of Privilege (LOP) 16. Gratuity (GST) 17. Taxation Off (Tax Off) 18. Holiday Off (",
+  "tokens_generated": 200
+}
